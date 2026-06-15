@@ -1,0 +1,7 @@
+{
+  "name": "FalconTech UAE",
+  "description": "Premium electronics ecommerce platform focused on customers across the UAE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
